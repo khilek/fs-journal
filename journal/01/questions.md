@@ -1,6 +1,6 @@
 # Foundations of Web Development
 01. In your own words, why do we use Git?
-    > Used to track content being made/created in VSCode
+    > Used to track/commit content being made/created in VSCode
 
 02. In the terminal, what is the command `mkdir` used for?
     > Make Directory
