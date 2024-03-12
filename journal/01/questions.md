@@ -6,13 +6,14 @@
     > Make Directory
 
 03. What is a ***pseudo-class*** and what are some of the most common ones you think you will use?
-    > | ANSWER HERE |
+    > pseudo-classes are used to define a special state of an element 
+    ex of common uses: :before :after :hovering
 
 04. What is ***specificity*** and how might you use it to your benefit?
-    > | ANSWER HERE |
+    > Specificity provides structural styling architecture, in a sense, to CSS when dealing with tags, classes, id's, attributes, and pseudo-elements. I would use this to my benefit to ensure that rules are being applied how I think they would/should be.
 
 05. What problems do you think you could run into if you over-utilized the `!important` feature?
-    > | ANSWER HERE |
+    > Code wouldn't be working in the manner I hoped it would.
 
 06. What are the three components that makeup a `CSS` rule? <br> Example:
 
@@ -22,7 +23,7 @@
         }
     ```
 
-    > | ANSWER HERE |
+    > Selector, Property & Value
 
 07. How do you think good design influences people when visiting a website, and what sorts of things could you convey through design alone?
     > | ANSWER HERE |
