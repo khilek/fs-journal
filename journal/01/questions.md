@@ -26,7 +26,7 @@
     > Selector, Property & Value
 
 07. How do you think good design influences people when visiting a website, and what sorts of things could you convey through design alone?
-    > | ANSWER HERE |
+    > Good design influences people by staying on the webpage longer and not wanting/having to leave or look away. You could convey that you know what you are doing on top of conveying that you are empathetic to people with disabilities
 
 08. What is the purpose of ***wireframing***?
     > | ANSWER HERE |
