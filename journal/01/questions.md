@@ -29,10 +29,10 @@
     > Good design influences people by staying on the webpage longer and not wanting/having to leave or look away. You could convey that you know what you are doing on top of conveying that you are empathetic to people with disabilities
 
 08. What is the purpose of ***wireframing***?
-    > | ANSWER HERE |
+    > Skeletal structure of a website with low, mid or high fidelities 
 
 09. Do you think wireframes are worth the time, energy, and effort that they require? Why or Why not?
-    > | ANSWER HERE |
+    > Yes, because it gives the people investing, opportunities to give feedback on design, flow & layout. Also, what does and doesn't work.
 
 10. Define the display `:flex property:`
     > display:flex puts objects on a main axis or horizontal 
