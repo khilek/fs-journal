@@ -38,4 +38,4 @@
     > display:flex puts objects on a main axis or horizontal 
 
 11. What `CSS` properties affect the size of a box model?
-    > | ANSWER HERE |
+    > width, height, padding, border, margin
