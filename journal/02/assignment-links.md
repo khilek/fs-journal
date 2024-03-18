@@ -1,6 +1,6 @@
 ## Afternoon Assignment Links
 
-* **[Repo](https://github.com/khilek/<ASSIGNMENT_REPO>)**
+* **[scoreboardJS]( https://github.com/khilek/scoreboardJS )**
 * **[Repo](https://github.com/khilek/<ASSIGNMENT_REPO>)**
 * **[Repo](https://github.com/khilek/<ASSIGNMENT_REPO>)**
 * **[Repo](https://github.com/khilek/<ASSIGNMENT_REPO>)**
