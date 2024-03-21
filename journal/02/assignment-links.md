@@ -2,5 +2,5 @@
 
 * **[scoreboardJS]( https://github.com/khilek/scoreboardJS )**
 * **[iceCreamParlor]( https://github.com/khilek/iceCreamParlor )**
-* **[Repo](https://github.com/khilek/<ASSIGNMENT_REPO>)**
+* **[sportBets]( https://github.com/khilek/sportBets )**
 * **[Repo](https://github.com/khilek/<ASSIGNMENT_REPO>)**
