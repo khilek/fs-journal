@@ -1,6 +1,6 @@
 ## Afternoon Assignment Links
 
-* **[Repo](https://github.com/khilek/<ASSIGNMENT_REPO>)**
+* **[gameNight]( https://github.com/khilek/gameNight )**
 * **[Repo](https://github.com/khilek/<ASSIGNMENT_REPO>)**
 * **[Repo](https://github.com/khilek/<ASSIGNMENT_REPO>)**
 * **[Repo](https://github.com/khilek/<ASSIGNMENT_REPO>)**
