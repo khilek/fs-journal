@@ -9,7 +9,7 @@
 
 03. What is Encapsulation?
   
-  > | ANSWER HERE |
+  > Essentially creates private data in the scope of say a function.
 
 04. What are some of the benefits of the `Proxy` object that we are using in our structure for applications?
   
