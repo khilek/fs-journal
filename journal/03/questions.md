@@ -13,7 +13,7 @@
 
 04. What are some of the benefits of the `Proxy` object that we are using in our structure for applications?
   
-  > | ANSWER HERE |
+  > Allows you to provide custom functionality to basic operations that can be performed on an Object.
 
 05. What the difference between a `class` and an instance of a `class`?
   
