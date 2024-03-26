@@ -25,16 +25,16 @@
 
 07. What is the purpose of the `MVC` pattern?
   
-  > | ANSWER HERE |
+  > To help with flow, in a sense, as well as helping keep well-structured and maintainable applications that have scalability for growth and expansion.
 
 08. What is the job of the `Controller` in the `MVC` Pattern?
   
-  > | ANSWER HERE |
+  > Takes in action from the user & draws data to the DOM
 
 09. What is the job of the `Service` in `MVC`?
   
-  > | ANSWER HERE |
+  > Anything that modifies data goes here
 
 10. What is the job of the `Model` in `MVC`?
   
-  > | ANSWER HERE |
+  > Blueprint of what the data in the AppState will look like.
