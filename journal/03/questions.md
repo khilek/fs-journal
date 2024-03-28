@@ -5,11 +5,11 @@
 
 02. How does `export` differ from `export default`?
   
-  > | ANSWER HERE |
+  > Exports are useful when you want to export multiple values and import them with their specific names. Default Exports are for exporting a single value and giving it a custom name when importing.
 
 03. What is Encapsulation?
   
-  > Essentially creates private data in the scope of say a function.
+  > Essentially creates private data in the scope of say a function or constructor
 
 04. What are some of the benefits of the `Proxy` object that we are using in our structure for applications?
   
@@ -17,11 +17,13 @@
 
 05. What the difference between a `class` and an instance of a `class`?
   
-  > | ANSWER HERE |
+  > A class is a basic template for creating objects in JavaScript. 
+    Each instance of a class will inherit key-value pairs and methods from the class.
 
 06. What is a computed Property?
   
-  > | ANSWER HERE |
+  > Computed Properties let you declare functions as properties.
+    It's only responsibility should be computing and returning that value.
 
 07. What is the purpose of the `MVC` pattern?
   
