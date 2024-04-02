@@ -1,7 +1,8 @@
 # Understanding Asynchronous Code, and API's
 01. What is the difference between `asynchronous` code and `synchronous` code?
 
-  > | ANSWER HERE |
+  > Synchronous code runs from top to bottom of the page, no matter what
+  Asynchronous code will do essentially the same but actually stop to take the time to await user input where indicated in the code
 
 02. What is an event listener?
 
@@ -25,20 +26,20 @@
 
 07. What does the `API` acronym stand for?
 
-  > | ANSWER HERE |
+  > Application Programming Interface
 
 08. What must you do in order to `await` a promise inside of a function?
 
-  > | ANSWER HERE |
+  > Use 'async' at the beginning of the said function and then use 'await' in appropriate place
 
 09. What is the purpose of encapsulation in programming?
 
-  > | ANSWER HERE |
+  > Limits direct access to some data, like an objects components . Also, bundling of data with the methods that operate on that data, cleaner code. Makes code private, preventing unauthorized parties direct access.
 
 10. What is `HTTP` response code for a successful request?
 
-  > | ANSWER HERE |
+  > 200
 
 11. What is a 400 error?
 
-  > | ANSWER HERE |
+  > Bad Request
