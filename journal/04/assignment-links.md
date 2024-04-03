@@ -1,6 +1,6 @@
 ## Afternoon Assignment Links
 
-* **[Repo]( https://github.com/khilek/triviaDB )**
-* **[Repo](https://github.com/khilek/<ASSIGNMENT_REPO>)**
+* **[TriviaDB]( https://github.com/khilek/triviaDB )**
+* **[GregsListAsync]( https://github.com/khilek/spring24_gregslistAsyncMVC )**
 * **[Repo](https://github.com/khilek/<ASSIGNMENT_REPO>)**
 * **[Repo](https://github.com/khilek/<ASSIGNMENT_REPO>)**
