@@ -6,7 +6,7 @@
 
 02. What is an event listener?
 
-  > | ANSWER HERE |
+  > Listens for changes or actions taken in
 
 03. What does *REST* stand for, and in simple terms what does it mean??
 
