@@ -18,7 +18,7 @@
 
 05. What is a `promise`? How do you capture an error from a `promise`?
 
-  > | ANSWER HERE |
+  > A promise is a promise that promises to do  or await on a certain interaction from typically from user input
 
 06. Name three processes used to make requests over `HTTP`?
 
