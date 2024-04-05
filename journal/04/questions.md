@@ -22,6 +22,10 @@
 
   > A promise is a promise that promises to do  or await on a certain interaction from typically from user input
 
+  Use Catch (error)
+  Pop.toast("Specific Error", 'error')
+  console.error(error)
+
 06. Name three processes used to make requests over `HTTP`?
 
   > Get, Post & Put
