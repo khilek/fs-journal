@@ -10,11 +10,13 @@
 
 03. What does *REST* stand for, and in simple terms what does it mean??
 
-  > | ANSWER HERE |
+  > REpresentational State Transfer
+  
+  The server will transfer to the client a representation of the state of the requested resource.
 
 04. What is a callback / higher order function?
 
-  > | ANSWER HERE |
+  > Functions that operate on other functions, either by taking them as arguments or by returning them
 
 05. What is a `promise`? How do you capture an error from a `promise`?
 
@@ -22,7 +24,7 @@
 
 06. Name three processes used to make requests over `HTTP`?
 
-  > | ANSWER HERE |
+  > Get, Post & Put
 
 07. What does the `API` acronym stand for?
 
