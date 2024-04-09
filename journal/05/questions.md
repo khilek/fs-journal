@@ -1,11 +1,14 @@
 # Intro to Server side concerns with JavaScript
 01. What do the letters of the acronym `CRUD` stand for?
 
-  > | ANSWER HERE |
+  > Create,Read, Update, Delete
 
 02. Each action that `CRUD` represents maps to an HTTP request. What HTTP request does each `CRUD` action correspond to?
 
-  > | ANSWER HERE |
+  C - Post
+  R - Get
+  U - Put
+  D - Delete
 
 03. What does `ORM` stand for? Which `ORM` do we use when interacting with MongoDB
 
