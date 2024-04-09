@@ -28,7 +28,7 @@
 
 07. What is middleware?
 
-  > | ANSWER HERE |
+  > Body parser - middleware – takes in request bodies and  makes sure they are in a usable format 
 
 08. The ______ pipeline delivers information from the client while the ______ pipeline returns it. Fill in the blanks. 
 
@@ -40,4 +40,4 @@
 
 10. What is a ***virtual property***?
 
-  > | ANSWER HERE |
+  > They are additional model functions returning values based on the default schema fields.
