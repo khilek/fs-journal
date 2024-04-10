@@ -31,9 +31,9 @@ D - Delete
 
 > Body parser - middleware – takes in request bodies and makes sure they are in a usable format
 
-8.  The **\_\_** pipeline delivers information from the client while the **\_\_** pipeline returns it. Fill in the blanks.
+8.  The **request** pipeline delivers information from the client while the **response** pipeline returns it. Fill in the blanks.
 
-> | ANSWER HERE |
+> Request & Response
 
 9.  Demonstrate the pattern that is used to include a request query with the client's `HTTP` request providing the property `tag` and the value `winter`.
 
