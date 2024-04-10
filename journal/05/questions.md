@@ -25,7 +25,9 @@ D - Delete
 
 6.  What are the three types of data relationships? Provide an example of each.
 
-> | ANSWER HERE |
+> 1:1 - Author : Address
+> 1:N - Blog : Comments
+> N:M - Book : Author
 
 7.  What is middleware?
 
