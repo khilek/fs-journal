@@ -13,7 +13,7 @@ D - Delete
 
 3.  What does `ORM` stand for? Which `ORM` do we use when interacting with MongoDB
 
-> | ANSWER HERE |
+> Object-Relational Mapping
 
 4.  Which two `HTTP` request types include a body?
 
@@ -21,7 +21,7 @@ D - Delete
 
 5.  In a/an **\_\_\_** coding model, when you call a function, it returns only when the action has finished and stops your program for the time the action takes. Likewise in a/an **\_\_\_** coding model, multiple things are allowed to happen at one time. When you perform an action, your program continues to run. Fill in the blanks.
 
-> | ANSWER HERE |
+> Synchronous & Asynchronous
 
 6.  What are the three types of data relationships? Provide an example of each.
 
@@ -39,7 +39,7 @@ D - Delete
 
 9.  Demonstrate the pattern that is used to include a request query with the client's `HTTP` request providing the property `tag` and the value `winter`.
 
-> | ANSWER HERE |
+> ?tag=winter
 
 10. What is a **_virtual property_**?
 
