@@ -33,6 +33,8 @@ D - Delete
 
 > Body parser - middleware – takes in request bodies and makes sure they are in a usable format
 
+Auth0 authorized users
+
 8.  The **request** pipeline delivers information from the client while the **response** pipeline returns it. Fill in the blanks.
 
 > Request & Response
