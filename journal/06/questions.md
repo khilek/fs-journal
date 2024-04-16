@@ -10,11 +10,11 @@
 
 3.  What is **_Component-Based Architecture_**?
 
-> You can have many components on a page that update at different times based on data changes without having to completely reload or render the page
+> You can have many components on a page that update at different times based on data changes without having to completely reload or re-render the page
 
 4.  What are the three tags that make up a Vue component?
 
-> | ANSWER HERE |
+> <script> <template> <style>
 
 5.  What are **_lifecycle hooks_**? What are lifecycle hooks used for?
 
