@@ -1,40 +1,41 @@
 # Single Page Applications with Vue
-01. What is the entrypoint of an application?
 
-  > | ANSWER HERE |
+1.  What is the entrypoint of an application?
 
-02. What is the difference between a vue `component` and `page`?
+> | ANSWER HERE |
 
-  > | ANSWER HERE |
+2.  What is the difference between a vue `component` and `page`?
 
-03. What is ***Component-Based Architecture***?
+> | ANSWER HERE |
 
-  > | ANSWER HERE |
+3.  What is **_Component-Based Architecture_**?
 
-04. What are the three tags that make up a Vue component?
+> | ANSWER HERE |
 
-  > | ANSWER HERE |
+4.  What are the three tags that make up a Vue component?
 
-05. What are ***lifecycle hooks***? What are lifecycle hooks used for?
+> | ANSWER HERE |
 
-  > | ANSWER HERE |
+5.  What are **_lifecycle hooks_**? What are lifecycle hooks used for?
 
-06. Which component in Vue does the vue-router use to mount pages onto?
+> A lifecycle hook provides a specified amount of time to wait for the action to complete before the instance transitions to the next state.
 
-  > | ANSWER HERE |
+6.  Which component in Vue does the vue-router use to mount pages onto?
 
-07. What is the difference between the `AppState` and the state object within a component?
+> | ANSWER HERE |
 
-  > | ANSWER HERE |
+7.  What is the difference between the `AppState` and the state object within a component?
 
-08. What is the responsibility of `Services` in our Vue projects?
+> | ANSWER HERE |
 
-  > | ANSWER HERE |
+8.  What is the responsibility of `Services` in our Vue projects?
 
-09. What are ***props*** and how are they used? Provide an example
+> The Logic for the application
 
-  > | ANSWER HERE |
+9.  What are **_props_** and how are they used? Provide an example
+
+> | ANSWER HERE |
 
 10. What is the Vue method used to create watchable objects such as `state` or `AppState`?
 
-  > | ANSWER HERE |
+> computed(()=> AppState.insert)
