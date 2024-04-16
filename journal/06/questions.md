@@ -34,7 +34,10 @@
 
 9.  What are **_props_** and how are they used? Provide an example
 
-> | ANSWER HERE |
+> Props are added on properties such as
+> Types
+> Required
+> Default
 
 10. What is the Vue method used to create watchable objects such as `state` or `AppState`?
 
