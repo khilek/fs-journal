@@ -2,7 +2,7 @@
 
 1.  What is the entrypoint of an application?
 
-> | ANSWER HERE |
+> main.js
 
 2.  What is the difference between a vue `component` and `page`?
 
