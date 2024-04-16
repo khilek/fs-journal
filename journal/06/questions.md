@@ -10,7 +10,7 @@
 
 3.  What is **_Component-Based Architecture_**?
 
-> | ANSWER HERE |
+> You can have many components on a page that update at different times based on data changes without having to completely reload or render the page
 
 4.  What are the three tags that make up a Vue component?
 
