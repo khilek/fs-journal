@@ -26,7 +26,7 @@
 
 7.  What is the difference between the `AppState` and the state object within a component?
 
-> | ANSWER HERE |
+> AppState is global while Component state is local
 
 8.  What is the responsibility of `Services` in our Vue projects?
 
