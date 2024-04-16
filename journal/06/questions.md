@@ -6,7 +6,7 @@
 
 2.  What is the difference between a vue `component` and `page`?
 
-> | ANSWER HERE |
+> A view component is what would traditionally be called a “page”, while a component is a reusable piece of code that can be integrated into several views
 
 3.  What is **_Component-Based Architecture_**?
 
