@@ -18,7 +18,7 @@
 
 5.  What are **_lifecycle hooks_**? What are lifecycle hooks used for?
 
-> A lifecycle hook provides a specified amount of time to wait for the action to complete before the instance transitions to the next state.
+> Every time a component reaches a new stage in its lifecycle, a specific function runs, and we can add code to that function
 
 6.  Which component in Vue does the vue-router use to mount pages onto?
 
