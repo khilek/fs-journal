@@ -9,4 +9,4 @@ This reflection is open-format, so it can be whatever you like. Take this opport
 - What are you struggling with?
 - What would you count as a victory?
 
-Struggled with getting data from api to draw to the screen and definitely struggled with the router modal page popup thing
+Struggled with getting data from api to draw to the screen and definitely struggled with the routerlink modal page popup thing
