@@ -42,3 +42,7 @@
 10. What is the Vue method used to create watchable objects such as `state` or `AppState`?
 
 > computed(()=> AppState.insert)
+
+onMounted(() => {
+
+})
