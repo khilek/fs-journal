@@ -1,23 +1,23 @@
 # A bit more CSharp and SQL
 1. What does ***inheritance*** accomplish for us in C#?
 
-  > | ANSWER HERE |
+  > Bringing in and using other properties from other models
 
 2. How does ***member inheritance*** work in C#? Does a `Class` inherit all members of the base `Class`?
 
-  > | ANSWER HERE |
+  > Inheritance enables you to create new classes that reuse, extend, and modify the behavior defined in other classes
 
 3. How does ***accessibility*** affect inheritance?
 
-  > | ANSWER HERE |
+  > A members accessibility affects its visibility for derived classes
 
 4. What is the difference between a `PRIMARY KEY` and a `FOREIGN KEY`
 
-  > | ANSWER HERE |
+  > FOreign key references a different table while a primary is key is specific to that table
 
 5. What is an ***alias***?
 
-  > | ANSWER HERE |
+  > idk what context this is meant to be used in but a temporary name used on a table or column.
 
 6. Demonstrate how you would query a join statement that would get all of a doctors patients from the following collections:
 
@@ -47,4 +47,4 @@
 
   ```
 
-  > | ANSWER HERE |
+  > select doctors.*, patients.*  from patient_doctors
